@@ -4,9 +4,12 @@ import pandas as pd
 import requests
 import os
 from time import sleep
+from dotenv import load_dotenv
+load_dotenv()
 
-# 🔐 Sua chave da API da OpenAI
-client = openai.OpenAI(api_key="")
+api_key = os.getenv("OPENAI_API_KEY")
+client = openai.OpenAI(api_key=api_key)
+
 
 # 📥 Arquivo CSV com os componentes
 df = pd.read_csv("Componentes_Curriculares_Com_Imgslug.csv")
