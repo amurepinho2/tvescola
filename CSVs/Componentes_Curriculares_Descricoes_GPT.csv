@@ -1,0 +1,156 @@
+Ano,Disciplina,Componente-curricular,Nova Descricao Gerada,imgslug
+1°EM,Biologia,1 Bioquímica,"Bioquímica sem mistério: dos compostos da vida ao DNA, entenda a base molecular dos seres vivos em aulas diretas.",1-bioqumica
+1°EM,Biologia,2 Citologia,"A fascinante jornada pelo universo celular: descubra estruturas, funções e os mistérios da vida em escala microscópica.",2-citologia
+1°EM,Biologia,3 Ecologia,"Descubra como a vida se conecta e se transforma na natureza: ecossistemas, ciclos da matéria e o impacto humano na terra.",3-ecologia
+1°EM,Biologia,4 Microbiologia,"Explore o fascinante mundo dos microrganismos e descubra como vírus, bactérias, fungos e protozoários afetam a vida.",4-microbiologia
+1°EM,Biologia,5 Histologia,"Descubra os segredos do corpo humano através dos tecidos que sustentam, conectam, movem e comandam tudo.",5-histologia
+1°EM,Física,1 Introdução Á Física,Conheça a ciência que explica o universo — do movimento à energia — e transforme curiosidade em compreensão.,1-introduo-fsica
+1°EM,Física,10 Dinâmica Impulsiva,"Descubra como forças rápidas mudam tudo: colisões, choques e impulsos que definem o instante.",10-dinmica-impulsiva
+1°EM,Física,11 Hidrostática,"Explore os segredos dos líquidos em repouso e como eles sustentam, empurram e surpreendem no dia a dia.",11-hidrosttica
+1°EM,Física,12 Hidrodinâmica,"Veja a água em ação e entenda como rios, torneiras e turbinas obedecem às leis do movimento fluido.",12-hidrodinmica
+1°EM,Física,13 Introdução À Óptica Geométrica,"Reflita sobre a luz: trajetórias, reflexos e ilusões que revelam o funcionamento da nossa visão.",13-introduo-ptica-geomtrica
+1°EM,Física,14 Espelhos Planos,Reflita literalmente: descubra como superfícies planas criam imagens e desafiam nossa percepção do espaço.,14-espelhos-planos
+1°EM,Física,15 Espelhos Esféricos,"Explore como superfícies curvas revelam imagens, ilusões e segredos sobre a luz no nosso cotidiano.",15-espelhos-esfricos
+1°EM,Física,16 Refração Da Luz,"Luz que muda de direção e revela fenômenos como arco-íris, ilusões e até lentes de aumento.",16-refrao-da-luz
+1°EM,Física,17 Lentes Esféricas,"Entenda como as lentes ampliam, invertem e corrigem a visão — e moldam nosso olhar sobre o mundo.",17-lentes-esfricas
+1°EM,Física,18 Instrumentos Ópticos,"Mergulhe nos bastidores da visão com lupas, telescópios e microscópios que ampliam o invisível.",18-instrumentos-pticos
+1°EM,Física,2 Cinemática (Escalar),"Explore o movimento sem direção: velocidade, espaço e tempo traduzidos em fórmulas e trajetórias simples.",2-cinemtica-escalar
+1°EM,Física,3 Cinemática Vetorial,"Descubra como direção, sentido e intensidade se unem para descrever o movimento de forma precisa.",3-cinemtica-vetorial
+1°EM,Física,4 Movimento Circular,"Explore trajetórias circulares, rotações e a física por trás de rodas, planetas e turbinas.",4-movimento-circular
+1°EM,Física,5 Introdução À Dinâmica,"Entenda por que os corpos se movem ou param: forças, leis e interações que regem o universo.",5-introduo-dinmica
+1°EM,Física,6 Dinâmica No Movimento Curvo,Analise como curvas e forças centrípetas criam trajetórias complexas e movimentos controlados.,6-dinmica-no-movimento-curvo
+1°EM,Física,7 Estática Equilíbrio,Equilibre o conhecimento: descubra como forças e torques mantêm estruturas estáveis e seguras.,7-esttica-equilbrio
+1°EM,Física,8 Máquinas Simples,"Explore alavancas, polias e planos inclinados — invenções que ampliam a força e movem o mundo.",8-mquinas-simples
+1°EM,Física,9 Trabalho E Energia,"Entenda como energia se transforma e como o trabalho conecta força, movimento e eficiência.",9-trabalho-e-energia
+1°EM,Literatura,1. O Que É Literatura?,"Descubra a arte de criar com palavras, dar forma a emoções e transformar ideias em experiências.",1-o-que-literatura
+1°EM,Literatura,2. Prosa E Poesia,Do ritmo à narrativa: mergulhe nas duas formas de expressão que moldam a linguagem literária.,2-prosa-e-poesia
+1°EM,Literatura,3. Intertextualidades,"Textos conversam entre si, e você aprende a decifrar ecos, alusões e diálogos entre grandes obras.",3-intertextualidades
+1°EM,Literatura,4. A Linguagem Literária,"Aprenda como metáforas, sentidos e estilo transformam o texto em arte e o leitor em intérprete.",4-a-linguagem-literria
+1°EM,Literatura,5. Trovadorismo E Classicismo,Viaje da paixão cortês à harmonia clássica em versos que marcam o início da literatura portuguesa.,5-trovadorismo-e-classicismo
+1°EM,Literatura,6. Quinhentismo,Descubra o encontro entre culturas na literatura dos primeiros contatos entre Europa e Brasil.,6-quinhentismo
+1°EM,Literatura,7. Barroco,"Um mergulho na arte do conflito entre razão e fé, luz e sombra, com palavras que provocam e encantam.",7-barroco
+1°EM,Literatura,8. Arcadismo,"Fuja para o campo com poetas que buscavam simplicidade, razão e beleza no equilíbrio com a natureza.",8-arcadismo
+1°EM,Matemática,1 - Noções De Conjuntos,"Entenda como agrupar, comparar e organizar elementos com a base lógica da matemática moderna.",1---noes-de-conjuntos
+1°EM,Matemática,10 - Função Logarítmica,Explore o crescimento e a escala dos fenômenos naturais com a função que mede o invisível.,10---funo-logartmica
+1°EM,Matemática,11 - Triângulos,Conheça a figura mais estável da geometria e suas propriedades fundamentais para o mundo real.,11---tringulos
+1°EM,Matemática,12 - Semelhança,Descubra como formas diferentes podem manter proporções e revelar padrões surpreendentes.,12---semelhana
+1°EM,Matemática,13 - Área De Figuras Planas,"Aprenda a calcular o espaço das formas que nos cercam com lógica, precisão e fórmulas elegantes.",13---rea-de-figuras-planas
+1°EM,Matemática,14 - Circunferência E Círculo,"Explore a perfeição das formas circulares e sua aplicação em rotações, órbitas e muito mais.",14---circunferncia-e-crculo
+1°EM,Matemática,2 - Conjuntos Numéricos,"Dos naturais aos irracionais, mergulhe no universo dos números e nas ideias que organizam tudo.",2---conjuntos-numricos
+1°EM,Matemática,3 - Temas Básicos Da Aritmética,"Domine os fundamentos dos números com divisibilidade, fatoração e operações que estruturam os cálculos.",3---temas-bsicos-da-aritmtica
+1°EM,Matemática,4 - Temas Básicos Da Álgebra,Resolva o desconhecido com equações e expressões que revelam a linguagem universal da matemática.,4---temas-bsicos-da-lgebra
+1°EM,Matemática,5 - Linguagem Das Funções,Descubra como relações entre grandezas explicam tudo: de curvas no gráfico a decisões do mundo real.,5---linguagem-das-funes
+1°EM,Matemática,6 - Função Polinomial Do 1° Grau Ou Função Afim,Explore gráficos lineares e relações diretas entre variáveis que explicam tendências e previsões.,6---funo-polinomial-do-1-grau-ou-funo-afim
+1°EM,Matemática,7 - Função Polinomial Do 2° Grau Ou Função Quadrática,"Descubra parábolas, raízes e vértices que descrevem movimentos, lucros e fenômenos naturais.",7---funo-polinomial-do-2-grau-ou-funo-quadrtica
+1°EM,Matemática,8 - Função Modular,Entenda como o valor absoluto transforma equações e cria simetrias com aplicações reais e visuais.,8---funo-modular
+1°EM,Matemática,9 - Função Exponencial,"Entenda o crescimento acelerado que explica juros, populações, pandemias e fenômenos naturais.",9---funo-exponencial
+1°EM,Português,"1 - Língua, Gramática Ou Linguagem?","Explore o que está por trás do que falamos: estrutura, cultura e identidade expressas nas palavras.",1---lngua-gramtica-ou-linguagem
+1°EM,Português,"10 - Preposição, Conjunção E Interjeição","Descubra como pequenas palavras ligam ideias, marcam emoções e estruturam frases com clareza.",10---preposio-conjuno-e-interjeio
+1°EM,Português,11 - Formação De Palavras,"Prefixos, sufixos e raízes: mergulhe no processo criativo por trás da construção da nossa linguagem.",11---formao-de-palavras
+1°EM,Português,12 - Análise E Produção Textual - Gêneros Dissertativos,"Aprenda a construir textos argumentativos com clareza, estrutura e lógica para convencer, informar e refletir.",12---anlise-e-produo-textual---gneros-dissertativos
+1°EM,Português,13 - Argumentação,"Entenda como construir argumentos sólidos, rebater ideias e convencer com lógica e persuasão.",13---argumentao
+1°EM,Português,14 - Análise E Produção Textual - Gêneros Argumentativos,Aprenda a construir argumentos sólidos em textos como artigos e resenhas — com impacto e clareza.,14---anlise-e-produo-textual---gneros-argumentativos
+1°EM,Português,2 - Variações Linguísticas,Explore os diferentes jeitos de falar no Brasil e o que eles revelam sobre identidade e contexto social.,2---variaes-lingusticas
+1°EM,Português,3 - Saber Ler,"Descubra como ir além das palavras: interpretar, inferir e entender o que os textos realmente dizem.",3---saber-ler
+1°EM,Português,4 - Classes De Palavras - Substantivo,"Aprenda a reconhecer e usar os nomes das coisas, ideias e seres que estruturam qualquer frase.",4---classes-de-palavras---substantivo
+1°EM,Português,5 - Classes De Palavras - Adjetivo,"Dê cor, forma e emoção às frases com palavras que qualificam e expressam nuances com precisão.",5---classes-de-palavras---adjetivo
+1°EM,Português,6 - Classes De Palavras - Artigo E Numeral,"Descubra como a definição, quantidade e ordem influenciam o sentido do que lemos e escrevemos.",6---classes-de-palavras---artigo-e-numeral
+1°EM,Português,7 - Classes De Palavras - Pronome,"Aprenda como pronomes substituem, indicam e personalizam a comunicação em cada contexto.",7---classes-de-palavras---pronome
+1°EM,Português,8 - Classes De Palavras - Verbo,"A alma da frase: veja como os verbos expressam ações, estados e tempos com flexão e intensidade.",8---classes-de-palavras---verbo
+1°EM,Português,9 - Classes De Palavras - Advérbio,"Intensifique, negue ou situe suas ideias com palavras que ajustam o ritmo, o tom e o foco da frase.",9---classes-de-palavras---advrbio
+1°EM,Química,1 Introdução Á Química,Explore o mundo invisível das transformações da matéria e descubra como a Química explica tudo ao seu redor.,1-introduo-qumica
+1°EM,Química,10 Relações Numéricas,"Conecte números e átomos para entender massas, quantidades e proporções que regem reações químicas.",10-relaes-numricas
+1°EM,Química,11 Fórmulas Químicas,Decifre os códigos da matéria: símbolos e fórmulas que revelam a composição das substâncias.,11-frmulas-qumicas
+1°EM,Química,12 Estudo Dos Gases,"Explore o comportamento dos gases e entenda as leis que explicam pressão, volume e temperatura no ar.",12-estudo-dos-gases
+1°EM,Química,13 Cálculos Estequiométricos,Aprenda a quantificar reações químicas e prever resultados com base em proporções precisas.,13-clculos-estequiomtricos
+1°EM,Química,2 A Matéria E Suas Transformações,"Entenda como a matéria muda de forma, estado e estrutura em processos físicos e químicos.",2-a-matria-e-suas-transformaes
+1°EM,Química,3 Evolução Dos Modelos Atômicos,Viaje pelas ideias que revelaram o átomo — de esferas maciças a nuvens de probabilidade.,3-evoluo-dos-modelos-atmicos
+1°EM,Química,4 Classificação Periódica Dos Elementos,Entenda como a tabela periódica organiza os elementos e revela padrões que explicam o universo atômico.,4-classificao-peridica-dos-elementos
+1°EM,Química,5 Ligações Químicas,Descubra como átomos se unem para formar substâncias com propriedades únicas e estruturas estáveis.,5-ligaes-qumicas
+1°EM,Química,6 Geometria Molecular E Polaridade,Explore formas e distribuições de carga que determinam as propriedades e comportamentos das moléculas.,6-geometria-molecular-e-polaridade
+1°EM,Química,7 Forças Intermoleculares E Propriedades Físicas,"Revele as interações invisíveis entre moléculas que explicam estados físicos, solubilidade e ebulição.",7-foras-intermoleculares-e-propriedades-fsicas
+1°EM,Química,8 Funções Inorgânicas,"Conheça os grupos fundamentais da química inorgânica — ácidos, bases, sais e óxidos — e suas aplicações.",8-funes-inorgnicas
+1°EM,Química,9 Reações Químicas Inorgânicas,"Explore como as substâncias se transformam em reações que movem, mudam e constroem o mundo.",9-reaes-qumicas-inorgnicas
+2°EM,Biologia,1 Zoologia,"Explore o mundo animal do porífero às aves com vermes, insetos, moluscos e mistérios da evolução.",1-zoologia
+2°EM,Biologia,2 Genética,"Segredos da hereditariedade revelados: de Mendel ao sangue, entenda como os genes moldam o que somos.",2-gentica
+2°EM,Biologia,3 Fisiologia Humana,"Explore os sistemas vitais do corpo humano em uma jornada intensa por hormônios, órgãos, defesas e reprodução.",3-fisiologia-humana
+2°EM,Biologia,4 Origem Da Vida,A fascinante jornada da vida: das primeiras teorias ao surgimento das células e grandes extinções do planeta.,4-origem-da-vida
+2°EM,Biologia,5 Botânica,"Dos musgos às flores, explore a evolução e a estrutura das plantas neste mergulho visual pela botânica.",5-botnica
+2°EM,Física,1 O Universo,"Do Big Bang às galáxias: viaje pela origem, estrutura e mistérios do cosmos em expansão.",1-o-universo
+2°EM,Física,2 Gravitação Universal,"Entenda como os corpos se atraem e por que a gravidade conecta tudo, do planeta à maçã que cai.",2-gravitao-universal
+2°EM,Física,3 Movimento Harmônico Simples (Mhs),"Explore oscilações perfeitas que regem pêndulos, molas e até o som que vibra ao nosso redor.",3-movimento-harmnico-simples-mhs
+2°EM,Física,4 Ondulatória,"Explore o mundo das ondas — som, luz e vibração — e entenda como elas se propagam e se transformam.",4-ondulatria
+2°EM,Física,5 Acústica,"Mergulhe no universo do som: frequências, ressonância e fenômenos que moldam o que ouvimos.",5-acstica
+2°EM,Física,"6 Termologia, Calorimetria E Dilatação","Descubra como o calor interage com a matéria, altera volumes e revela leis da termodinâmica.",6-termologia-calorimetria-e-dilatao
+2°EM,Física,7 Gases Perfeitos,"Conheça o comportamento ideal dos gases e como suas variáveis explicam motores, balões e o clima.",7-gases-perfeitos
+2°EM,Física,8 Termodinâmica,"Descubra como calor e energia se transformam, guiando motores, ambientes e fenômenos naturais.",8-termodinmica
+2°EM,Literatura,1. Romantismo Brasileiro - 1ª Geração - Parte 1,"Nacionalismo, natureza e idealização: a formação de uma identidade brasileira através da poesia.",1-romantismo-brasileiro---1-gerao---parte-1
+2°EM,Literatura,2. Romantismo Brasileiro - 1ª Geração - Parte 2,"Heróis, lutas e valores patrióticos: os poetas românticos moldam a alma do Brasil independente.",2-romantismo-brasileiro---1-gerao---parte-2
+2°EM,Literatura,3. Romantismo Brasileiro - 2ª Geração,"Dores existenciais e paixões intensas em versos que exploram angústias, perdas e liberdade.",3-romantismo-brasileiro---2-gerao
+2°EM,Literatura,4. Romantismo Brasileiro - 3ª Geração,"Poesia com sangue nos olhos e ideais na alma: liberdade, justiça e emoção nos versos da resistência.",4-romantismo-brasileiro---3-gerao
+2°EM,Matemática,1 - Sequência,"Descubra padrões numéricos que crescem, se repetem e revelam estruturas em listas e fórmulas.",1---sequncia
+2°EM,Matemática,10 - Pirâmide,Explore formas com base poligonal e vértices convergentes em sólidos que conectam arte e engenharia.,10---pirmide
+2°EM,Matemática,11 - Cilindro,"Conheça a forma que move a indústria: do volume ao raio, descubra os segredos geométricos do cilindro.",11---cilindro
+2°EM,Matemática,12 - Cone,"Do sorvete à arquitetura: entenda como essa forma afunilada revela medidas, volumes e simetria.",12---cone
+2°EM,Matemática,13 - Esfera,"Explore o sólido perfeito: medidas, volume e aplicações que envolvem bolas, planetas e simetria total.",13---esfera
+2°EM,Matemática,2 - Trigonometria No Triângulo Retângulo,"Seno, cosseno e tangente explicam relações entre lados e ângulos no triângulo mais famoso da geometria.",2---trigonometria-no-tringulo-retngulo
+2°EM,Matemática,3 - Circunferência Trigonométrica: Seno E Cosseno,Entenda como os arcos se transformam em funções periódicas que modelam ciclos e padrões.,3---circunferncia-trigonomtrica-seno-e-cosseno
+2°EM,Matemática,4 - Outras Razões Trigonométricas,"Amplie seu repertório com tangente, secante e cofunções que revelam simetrias e relações entre ângulos.",4---outras-razes-trigonomtricas
+2°EM,Matemática,5 - Adição De Arcos,Descubra como somar ângulos usando trigonometria para resolver problemas complexos com precisão.,5---adio-de-arcos
+2°EM,Matemática,6 - Funções Trigonométricas,"Explore funções periódicas que explicam oscilações, movimentos cíclicos e padrões no tempo.",6---funes-trigonomtricas
+2°EM,Matemática,7 - Triginimetria Em Um Triângulo Qualquer,Aplique a trigonometria fora do retângulo e descubra novas relações entre lados e ângulos.,7---triginimetria-em-um-tringulo-qualquer
+2°EM,Matemática,8 - Geometria De Posição E Poliedros,"Entenda como pontos, retas e formas sólidas se organizam no espaço e constroem estruturas reais.",8---geometria-de-posio-e-poliedros
+2°EM,Matemática,9 - Prisma,"Descubra como sólidos retos com bases paralelas revelam volume, faces e simetrias do espaço.",9---prisma
+2°EM,Português,10. Análise E Produção Textual - Dissertação-Argumentativa (Parte 3),"Aprenda a concluir com impacto: feche seu texto com coerência, reforçando a tese e deixando sua marca final.",10-anlise-e-produo-textual---dissertao-argumentativa-parte-3
+2°EM,Português,4. Sintaxe - Período Simples,"Entenda como organizar as palavras em frases completas e claras, dominando os termos essenciais da oração.",4-sintaxe---perodo-simples
+2°EM,Português,5. Sintaxe - Concordância,"Descubra como manter harmonia entre sujeito e verbo, nome e adjetivo, com regras que dão sentido à língua.",5-sintaxe---concordncia
+2°EM,Português,6. Sintaxe - Regência E Crase,"Domine a arte de conectar termos com precisão — com ou sem acento, a clareza depende da escolha certa.",6-sintaxe---regncia-e-crase
+2°EM,Português,7. Sintaxe - Período Composto,Construa frases complexas com sentido completo unindo orações por coordenação e subordinação.,7-sintaxe---perodo-composto
+2°EM,Português,8. Análise E Produção Textual - Dissertação-Argumentativa (Parte 1),Comece com o pé direito: defina sua tese e estruture a introdução para prender o leitor desde o início.,8-anlise-e-produo-textual---dissertao-argumentativa-parte-1
+2°EM,Português,9. Análise E Produção Textual - Dissertação-Argumentativa (Parte 2),Aprofunde-se no desenvolvimento de ideias com coesão e progressão lógica entre argumentos e fatos.,9-anlise-e-produo-textual---dissertao-argumentativa-parte-2
+2°EM,Química,4. Cinética Química,Descubra o que acelera ou retarda as reações químicas e como controlar a velocidade das transformações.,4-cintica-qumica
+2°EM,Química,5. Equilíbrio Químico,Entenda como as reações químicas se ajustam sozinhas e como pequenas mudanças afetam grandes resultados.,5-equilbrio-qumico
+3°EM,Biologia,1 Citologia,"Descubra os mistérios das células: tipos, estruturas e funções em uma jornada do microscópio ao núcleo celular.",1-citologia
+3°EM,Biologia,2 Genética,"Segredos da hereditariedade revelados: de Mendel ao sangue, entenda como os genes moldam o que somos.",2-gentica
+3°EM,Biologia,3 Biotecnologia,"Manipulação genética, clonagem, vacinas e dilemas éticos: mergulhe no fascinante mundo da biotecnologia moderna.",3-biotecnologia
+3°EM,Biologia,4 Evolução,"A origem da vida sob a lente da ciência: teorias, evidências e mistérios da evolução desvendados em cada aula.",4-evoluo
+3°EM,Biologia,5 Botânica,"Dos musgos às flores, explore a evolução e a estrutura das plantas neste mergulho visual pela botânica.",5-botnica
+3°EM,Biologia,6 Embriologia,"Da fecundação aos gêmeos: descubra os mistérios do início da vida com embriões, células e muito mais.",6-embriologia
+3°EM,Física,1 Eletrostática,Descubra os segredos das cargas elétricas em repouso e como elas criam forças invisíveis que moldam o mundo.,1-eletrosttica
+3°EM,Física,2 Eletrodinâmica,Explore o movimento das cargas elétricas e entenda como a eletricidade flui em circuitos que energizam tudo ao nosso redor.,2-eletrodinmica
+3°EM,Física,3 Magnetismo,"Descubra como campos magnéticos influenciam a matéria, das bússolas aos motores que movem o mundo moderno.",3-magnetismo
+3°EM,Física,4 Eletromagnetismo,Entenda como eletricidade e magnetismo se unem para criar os fenômenos que impulsionam a tecnologia moderna.,4-eletromagnetismo
+3°EM,Física,5 Análise Dimensional,"Aprenda a testar fórmulas físicas com lógica e precisão, usando unidades como ferramenta de validação científica.",5-anlise-dimensional
+3°EM,Física,6 Tópicos De Mecânica Quântica,"Mergulhe no universo das partículas, onde probabilidades mandam, e a realidade desafia o senso comum.",6-tpicos-de-mecnica-quntica
+3°EM,Física,7 Tópicos Relatividade Restrita,"Explore um mundo onde tempo e espaço se curvam, e a velocidade da luz redefine a realidade.",7-tpicos-relatividade-restrita
+3°EM,Física,8 Radioatividade,Descubra o poder dos átomos instáveis e como a radioatividade transformou a ciência — e o mundo.,8-radioatividade
+3°EM,Literatura,1. Pré-Modernismo,Conheça autores que romperam com o passado e abriram caminho para uma nova linguagem literária no Brasil.,1-pr-modernismo
+3°EM,Literatura,3. Modernismo Brasileiro - 1ª Geração,Explore a revolução artística que quebrou padrões e deu voz à cultura brasileira com ousadia e identidade.,3-modernismo-brasileiro---1-gerao
+3°EM,Literatura,4. Modernismo Brasileiro - 2ª Geração,"Conheça poetas que expressaram angústia, religiosidade e introspecção em versos marcados pela emoção.",4-modernismo-brasileiro---2-gerao
+3°EM,Literatura,5. Modernismo Brasileiro - 3ª Geração,"Descubra uma literatura mais social, humana e engajada, com autores que olharam para o Brasil profundo.",5-modernismo-brasileiro---3-gerao
+3°EM,Matemática,1 - Matrizes,Domine a arte de organizar dados e resolver problemas com tabelas que escondem poderosos cálculos.,1---matrizes
+3°EM,Matemática,10 - Cônicas,"Explore as curvas que nascem de cones — elipses, parábolas e hipérboles que explicam órbitas, reflexos e muito mais.",10---cnicas
+3°EM,Matemática,11 - Estatística,"Transforme dados em decisões: aprenda a organizar, analisar e interpretar informações do mundo real.",11---estatstica
+3°EM,Matemática,12 - Matemática Financeira,"Domine juros, porcentagens e prestações para tomar decisões financeiras com precisão e inteligência.",12---matemtica-financeira
+3°EM,Matemática,2 - Sistemas Lineares,Aprenda a resolver múltiplas equações ao mesmo tempo e entenda como variáveis se conectam no mundo real.,2---sistemas-lineares
+3°EM,Matemática,3 - Determinantes E Aplicações,"Descubra como os determinantes ajudam a resolver sistemas, calcular áreas e entender a estrutura das matrizes.",3---determinantes-e-aplicaes
+3°EM,Matemática,4 - Os Princípios Da Analise Combinatória,Descubra como contar possibilidades com lógica e estratégia — do princípio multiplicativo às permutações.,4---os-princpios-da-analise-combinatria
+3°EM,Matemática,5 - Métodos De Contagem,Simplifique escolhas complexas com métodos que revelam quantas combinações são realmente possíveis.,5---mtodos-de-contagem
+3°EM,Matemática,6 - Probabilidade,"Explore o acaso com ferramentas que calculam riscos, chances e incertezas do dia a dia.",6---probabilidade
+3°EM,Matemática,7 - Geometria Analítica: Ponto,Entenda como localizar qualquer ponto no plano e use coordenadas para explorar o espaço com precisão.,7---geometria-analtica-ponto
+3°EM,Matemática,8 - Geometria Analítica: Reta,"Descubra como retas se comportam no plano, com equações que revelam direção, inclinação e intersecções.",8---geometria-analtica-reta
+3°EM,Matemática,9 - Geometria Analítica: Circunferência,Explore curvas perfeitas e descubra como equações revelam formas circulares no plano cartesiano.,9---geometria-analtica-circunferncia
+3°EM,Português,1. Sintaxe - Pontuação,"Domine o ritmo da escrita com vírgulas, pontos e outros sinais que organizam e dão sentido ao texto.",1-sintaxe---pontuao
+3°EM,Português,11. Análise E Produção Textual - Aprofundando A Dissertação-Argumentativa (Parte 1),"Aperfeiçoe a estrutura da dissertação com estratégias argumentativas que reforçam clareza, coesão e originalidade.",11-anlise-e-produo-textual---aprofundando-a-dissertao-argumentativa-parte-1
+3°EM,Português,12. Análise E Produção Textual - Aprofundando A Dissertação-Argumentativa (Parte 2),Refine sua conclusão e explore recursos linguísticos que ampliam a força do texto dissertativo-argumentativo.,12-anlise-e-produo-textual---aprofundando-a-dissertao-argumentativa-parte-2
+3°EM,Química,1 Introdução À Química Orgânica,Explore o universo dos compostos do carbono e descubra como a Química Orgânica está presente em tudo.,1-introduo-qumica-orgnica
+3°EM,Química,10 Noções De Bioquímica,"Entenda as moléculas da vida — proteínas, lipídios e carboidratos — e seus papéis no funcionamento do corpo.",10-noes-de-bioqumica
+3°EM,Química,11 Polímeros,"Conheça as gigantes químicas que formam plásticos, tecidos e materiais que moldam o mundo moderno.",11-polmeros
+3°EM,Química,2 Hidrocarnonetos,Descubra a base dos combustíveis e da indústria: compostos formados só por carbono e hidrogênio.,2-hidrocarnonetos
+3°EM,Química,3 Funções Orgânicas Oxigenadas,"Do álcool ao ácido, descubra como grupos oxigenados definem cheiros, remédios e reações do dia a dia.",3-funes-orgnicas-oxigenadas
+3°EM,Química,4 Funções Orgânicas Nitrogenadas,"Explore compostos com nitrogênio que formam remédios, proteínas e substâncias vitais para a vida.",4-funes-orgnicas-nitrogenadas
+3°EM,Química,5 Outras Funções Orgânicas,Conheça os grupos funcionais que ampliam a diversidade da Química Orgânica além do oxigênio e do nitrogênio.,5-outras-funes-orgnicas
+3°EM,Química,6 Propriedades Físicas Dos Compostos Orgânicos,"Entenda como tamanho, polaridade e interações afetam o ponto de fusão, ebulição e solubilidade das moléculas.",6-propriedades-fsicas-dos-compostos-orgnicos
+3°EM,Química,7 Isomeria,Descubra como compostos com a mesma fórmula podem ter estruturas diferentes e comportamentos únicos.,7-isomeria
+3°EM,Química,8 Reações Orgânicas De Hidrocarbonetos,"Aprenda como os hidrocarbonetos reagem e se transformam, da combustão às reações de substituição.",8-reaes-orgnicas-de-hidrocarbonetos
+3°EM,Química,9 Reações Orgânicas De Outras Funções,"Explore como álcoois, ácidos e aminas se combinam e reagem, criando novos compostos essenciais.",9-reaes-orgnicas-de-outras-funes
